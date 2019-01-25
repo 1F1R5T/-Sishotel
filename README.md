@@ -1,4 +1,4 @@
-# -Sishotel
+# Sishotel
 SIstem Informasi Hotel
 
 <a href="http://i.imgur.com/52qq10A.png">
